@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **NaminduKavishan@gmail.com**
   
-- ⚡ Fun fact ** Call me as NK **
+- ⚡ Fun fact ** _Call me as NK_ **
 
 </td>
 <td width="50%" align="center">
