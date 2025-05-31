@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **NaminduKavishan@gmail.com**
+- 📫 How to reach me **kavishannamindu@gmail.com**
   
 - ⚡ Fun fact ** _Call me as NK_ **
 
