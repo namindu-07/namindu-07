@@ -1,75 +1,74 @@
-<div align="center" style="font-family:'Arial',sans-serif; color:#e6e6e6; background:#0d1117; padding:20px; border-radius:10px;">
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=A78BFA&center=true&vCenter=true&width=440&lines=Hey!+I'm+Namindu+Kavishan+👋;Java+%7C+Laravel+%7C+React+Developer;Learning+PHP+Laravel+and+React.js" alt="Typing SVG" />
+</p>
 
-  <!-- Hero Section -->
-  <h1 style="font-size:2.5em; color:#00b4d8; animation: float 3s ease-in-out infinite;">
-    👋 Hi, I'm Namindu Kavishan!
-  </h1>
-  <p style="font-size:1.1em; color:#caf0f8; white-space:nowrap; overflow:hidden; border-right:3px solid #00b4d8; animation: typing 3s steps(40) forwards; width:0;">
-    Flutter Enthusiast | Computer Science Undergraduate
-  </p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI5bDR1OGdtdDV6Yzl0a3RrbmRtbjU3bHlsanVhZ2o2c2p2eW5heCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKtnuHOH5VvU4z6/giphy.gif" alt="Coding animation" width="300" style="border-radius:8px; margin:15px; box-shadow:0 0 10px rgba(0,180,216,0.3);">
+<h1 align="center">✨ Welcome to My GitHub Space ✨</h1>
 
-  <!-- About Me -->
-  <h2 style="color:#f72585;">🧑‍💻 About Me</h2>
-  <div style="max-width:550px; background:rgba(255,255,255,0.05); border-radius:8px; padding:15px; text-align:left; line-height:1.5em;">
-    <p>Hey! I'm <b>Namindu</b>, a CS undergrad at IIT passionate about <b style="color:#00b4d8;">Flutter</b> and mobile app development. I enjoy crafting clean, efficient code to solve real-world problems.</p>
-    <ul style="list-style:none; padding:0;">
-      <li>🌱 Learning: <b style="color:#00b4d8;">Flutter, Dart, Android</b></li>
-      <li>💬 Ask me about: <b style="color:#00b4d8;">Java & Mobile Dev</b></li>
-      <li>⚡ Fun Fact: They call me <b style="color:#00b4d8;">NK</b> 😎</li>
-    </ul>
-  </div>
+<p align="center">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Animated gradient hero">
+</p>
 
-  <!-- Skills -->
-  <h2 style="color:#f72585;">🛠️ Skills</h2>
-  <div>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" style="margin:5px;">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" style="margin:5px;">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" style="margin:5px;">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" style="margin:5px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="margin:5px;">
-  </div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2c3k5N3F6a3p5c3c5Z3ZhYTB2aGoyc3J4d2I4cDJ3d3N2c3R6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Fpg2F7Uo2T6vB0I/giphy.gif" alt="Tech animation" width="250" style="border-radius:8px; margin:15px; animation: glow 2s ease-in-out infinite alternate;">
+---
 
-  <!-- GitHub Stats -->
-  <h2 style="color:#f72585;">📈 My GitHub Stats</h2>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Namindu-07&theme=dracula&show_icons=true&hide_border=true" width="45%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namindu-07&theme=dracula&hide_border=true" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namindu-07&theme=dracula&layout=compact&hide_border=true" width="50%" style="margin-top:10px;">
-  </div>
+### 👨‍💻 About Me
+- 💻 Passionate about crafting modern, interactive web apps  
+- 🌱 Currently learning **PHP Laravel** and **React.js**  
+- 🎯 Interested in clean UI, micro animations, and full-stack problem solving  
+- 🎮 Love for coding challenges & new tech experiments  
 
-  <!-- Connect -->
-  <h2 style="color:#f72585;">🌍 Connect With Me</h2>
-  <p>
-    <a href="https://github.com/Namindu-07" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" style="margin:5px;"></a>
-    <a href="https://linkedin.com/in/namindu-kavishan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="margin:5px;"></a>
-    <a href="mailto:kavishannamindu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" style="margin:5px;"></a>
-  </p>
+---
 
-  <!-- Footer -->
-  <p style="color:#caf0f8; font-style:italic; margin-top:15px;">"Code is poetry for machines." – NK</p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp4c3Npb2JwcHdsZ2Rvbmd5OWZ0NWQ3c2d6NWg2Z3F3M3A5N3F4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsjCzAffmm6BPlu/giphy.gif" alt="Fun coding animation" width="200" style="border-radius:8px; animation: float 3s ease-in-out infinite;">
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-333?logo=java&logoColor=F89820" />
+  <img src="https://img.shields.io/badge/Laravel-333?logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/React-333?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PHP-333?logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-333?logo=tailwindcss&logoColor=06B6D4" />
+</p>
 
-  <!-- Animations -->
-  <style>
-    @keyframes float {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-6px); }
-    }
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-    @keyframes glow {
-      from { box-shadow: 0 0 5px #00b4d8; }
-      to { box-shadow: 0 0 10px #00b4d8; }
-    }
-    a img:hover {
-      transform: scale(1.1);
-      transition: transform 0.3s ease;
-    }
-  </style>
-</div>
+---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Namindu-07&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile Views"/></p>
+### 🧠 What I’m Learning
+- 🔭 Deep diving into **Laravel backend fundamentals**
+- ⚛️ Exploring **React hooks & component reusability**
+- 🧩 Experimenting with API design and clean architecture
+
+---
+
+### 📈 My GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=namindukavishan&show_icons=true&theme=radical&hide_title=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=namindukavishan&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namindukavishan&theme=dracula&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namindukavishan/namindukavishan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+### 📬 Connect With Me
+<p align="center">
+  <a href="mailto:kavishannamindu@gmail.com"><img src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/namindu-kavishan-67915b318"><img src="https://img.shields.io/badge/LinkedIn-333?logo=linkedin&logoColor=0A66C2" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/footer-underline.svg" width="200" alt="">
+</p>
+
+<p align="center">
+  <sub>✨ Designed with passion & caffeine ✨</sub>
+</p>
