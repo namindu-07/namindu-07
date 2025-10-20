@@ -1,4 +1,22 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="840" height="160" viewBox="0 0 840 160">
   <rect width="100%" height="100%" fill="#0b1220"/>
-  <text x="50%" y="50%" fill="#A78BFA" font-family="Fira Code, monospace" font-size="20" dominant-baseline="middle" text-anchor="middle">github-contribution-grid-snake-dark.svg (placeholder)</text>
+  <g font-family="Fira Code, monospace" font-size="12">
+    <text x="20" y="22" fill="#A78BFA">Contribution Snake (placeholder improved)</text>
+  </g>
+  <g transform="translate(20,40)">
+    <!-- Draw a grid of rounded squares resembling contributions -->
+    $x = 0
+    for ($row=0; $row -lt 7; $row++) {
+      for ($col=0; $col -lt 52; $col++) {
+        $cx = $col*14
+        $cy = $row*14
+        $color = '#071024'
+        # create a simple pattern for intensity
+        if (($col + $row) % 13 -eq 0) { $color = '#06b6d4' }
+        elseif (($col + $row) % 7 -eq 0) { $color = '#7c3aed' }
+        elseif (($col + $row) % 5 -eq 0) { $color = '#2dd4bf' }
+        "<rect x='$cx' y='$cy' width='12' height='12' rx='3' ry='3' fill='$color' />" | Out-String
+      }
+    }
+  </g>
 </svg>
