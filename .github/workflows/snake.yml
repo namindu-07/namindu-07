@@ -1,17 +1,22 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allow manual trigger
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:      # allow manual run
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Generate snake
         uses: Platane/snk@v3
