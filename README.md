@@ -71,7 +71,5 @@
 
 If the Typing SVG still doesn’t load, it’s usually a temporary block by GitHub’s image proxy. It’ll resolve on its own; you can also refresh after a minute.
 <!-- Typing headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Hey!+I'm+Namindu+Kavishan+👋;Java+%7C+Laravel+%7C+React+Developer;Learning+PHP+Laravel+and+React.js" alt="Typing SVG">
-</p>
+
 
