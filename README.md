@@ -1,12 +1,12 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Hey!+I'm+Namindu+Kavishan+👋;Java+%7C+Laravel+%7C+React+Developer;Learning+PHP+Laravel+and+React.js" alt="Typing SVG">
-</p>
+</p> -->
 
 <h1 align="center">✨ Welcome to My GitHub Space ✨</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/hero-dark.svg" width="100%" alt="Animated gradient hero">
-</p>
+</p> -->
 
 ---
 
