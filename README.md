@@ -8,7 +8,7 @@
   <img src="./assets/hero-dark.svg" width="100%" alt="Animated gradient hero">
 </p> -->
 
----
+-------
 
 ### 👨‍💻 About Me
 - 💻 Passionate about crafting modern, interactive web apps  
